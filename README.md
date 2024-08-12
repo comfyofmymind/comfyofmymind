@@ -1,4 +1,6 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=comfyofmymind&desc=github%20profile&fontSize=80&animation=fadeIn&fontAlign=70&fontAlignY=30&descSize=30&descAlign=80&descAlignY=50)
+<br/>
+
 
 <!--
 **comfyofmymind/comfyofmymind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
