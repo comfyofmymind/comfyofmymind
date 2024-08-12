@@ -7,7 +7,8 @@
 <p align="center">
    타입스크립트로 함께하는 웹 풀 사이클 개발(React, Node.js) 4기 (2024.08 ~ 2025.02)
 </p>
-
+<br>
+<br>
 
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
-
+<br>
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
